@@ -1,0 +1,6 @@
+__pycache__
+.ip*
+*minst*
+data
+.DS*
+machine_learning_examples
